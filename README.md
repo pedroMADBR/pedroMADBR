@@ -12,7 +12,5 @@ Olá,<br><br>Sou o Pedro Miguel dos Santos,<br>curso Engenharia de Software na U
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroMADBR&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMADBR&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=pedroMADBR&icon=8&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
