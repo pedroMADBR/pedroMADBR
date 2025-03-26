@@ -1,5 +1,5 @@
 # 🐼 Sobre mim:
-Olá,<br><br>Sou o Pedro Miguel dos Santos,<br>curso Engenharia de Software na UnB,<br>atualmente estou estudando sobre algoritmos,<br>gosto de escutar indie, rock e praticar esportes.
+Olá,<br><br>Sou o Pedro Miguel dos Santos,<br>curso Engenharia de Software na UnB,<br>atualmente estou estudando sobre requisitos para análise de softwares e metodologias de gestão de projetos em software,<br>gosto de escutar indie, rock e praticar esportes.
 
 
 ## 🌐 Socials:
